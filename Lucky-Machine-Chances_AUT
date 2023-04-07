@@ -1,0 +1,44 @@
+local Rewards = {
+
+	Types = {
+
+		--		["Items"] = 0.8, --Off until good items (yeah)
+		["Skin"] = 0.5,
+		["Ability"] = 0.25,
+
+	};
+
+	Ability = {
+
+		["Umbra"] = 0.8,
+		["Yone"] = 0.7,
+		["Yasuo"] = 0.65,
+		["Locke"] = 0.6,
+		["Candy Cutlass"] = 0.25,
+		["HSTWR"] = 0.2,
+		["ShadowLegs"] = 0.1,
+		["Party Starter"] = 0.03,
+		["Futuristic Queen"] = 0.01,
+		["Creeper Queen"] = 0.006,
+		["DJNoob"] = 0.003,
+		["Galizur"] = 0.012,
+		["DTWHV"] = 0.008,
+		["KCR"] = 0.004,
+		["Cypher"] = 0.0001,
+
+	};
+
+	Skin = {
+
+		["Noob Rave"] = 0.75,
+		["Angelic Platinum"] = 0.7,
+		["Garfield Queen"] = 0.65,
+		["Frost"] = 0.45,
+		["Hellish Crimson"] = 0.32,
+		["HALLOW"] = 0.25,
+		["The World: Greatest High"] = 0.005,
+		["TWR"] = 0.0001,
+
+	}
+
+};
